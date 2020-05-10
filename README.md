@@ -1,4 +1,8 @@
 # Coronavirus_FuelPrices
+## Summary
+This repository shows the necessary files to conduct the analysis found in my blog page.
+
+----- 
 Datasets for the Coronavirus &amp; fuel prices in the UK
 
 Datasets folder contains the data used for this analysis
